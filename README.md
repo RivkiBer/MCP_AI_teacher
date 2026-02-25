@@ -37,5 +37,14 @@
 ### ✅ שמירת סיכום
 לאחר סיום הבוחן ניתן:
 - לשמור סיכום לתיקיית `my_lessons`
-- הקובץ נשמר בפורמט:
+ הקובץ נשמר בפורמט:
   
+### 1️⃣ התקנת חבילות
+
+```bash
+pip install -r library.txt
+
+או ידנית:
+
+pip install streamlit requests python-dotenv
+
